@@ -1,0 +1,12 @@
+Jun 26, 2025 4:07:29 PM util.LoggerUtility log
+INFO: Created new user: lema as customer
+Jun 26, 2025 4:07:55 PM util.LoggerUtility log
+INFO: Added ingredient: tomato, cheese
+Jun 26, 2025 4:10:02 PM util.LoggerUtility log
+INFO: Created new user: frank as admin
+Jun 26, 2025 5:21:19 PM util.LoggerUtility log
+INFO: Created new user: lema as customer
+Jun 28, 2025 3:35:22 PM util.LoggerUtility log
+INFO: Created new user: lema as customer
+Jun 28, 2025 3:35:38 PM util.LoggerUtility log
+INFO: Added ingredient: tomato, ketchiup 
